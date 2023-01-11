@@ -4,3 +4,6 @@
 [submodule "challenge_9"]
 	path = challenge_9
 	url = /home/nachu/challenge_9
+[submodule "challenge_10"]
+	path = challenge_10
+	url = /home/nachu/challenge_10/
