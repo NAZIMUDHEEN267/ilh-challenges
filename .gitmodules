@@ -1,3 +1,6 @@
 [submodule "challenge_8"]
 	path = challenge_8
 	url = /home/nachu/Desktop/ilh_challenges/challenge_8/
+[submodule "challenge_9"]
+	path = challenge_9
+	url = /home/nachu/challenge_9
